@@ -1,0 +1,17 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^11.0.1",
+    "hapi": "^13.4.0",
+    "node-zookeeper-client": "^0.2.2",
+    "glee": "https://github.com/BrendaCR/glee.git"
+  }
+}
